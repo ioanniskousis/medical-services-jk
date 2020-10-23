@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import Gear from './Gear';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Gear />
   </React.StrictMode>,
   document.getElementById('root')
 );
